@@ -494,17 +494,62 @@ export const items = [
     ],
   },
   {
-    id: 31,
+    id: 32,
     title: "Kristina with DeBarge",
     category: "Buns of Steel",
     url: "https://www.retrosweathomevideo.com/buns-of-steel/videos/kristina-glutes-4-1",
-    instructor: "Holly",
+    instructor: "Kristina",
     duration: { minutes: 4, seconds: 55, total: { seconds: 295 } },
     songs: [
       {
         artist: "DeBarge",
         song: "Rhythm of the Night",
         "release-date": "1985-03-14",
+      },
+    ],
+  },
+  {
+    id: 33,
+    title: "Emily with Tracy Chapman",
+    category: "Cool Down",
+    url: "https://www.retrosweathomevideo.com/cool-down/videos/emily-cool-down",
+    instructor: "Emily",
+    duration: { minutes: 5, seconds: 27, total: { seconds: 327 } },
+    songs: [
+      {
+        artist: "Tracy Chapman",
+        song: "Fast Car",
+        "release-date": "1988-04-06",
+      },
+    ],
+  },
+  {
+    id: 34,
+    title: "Holly with Whitney Houston",
+    category: "Cool Down",
+    url: "https://www.retrosweathomevideo.com/cool-down/videos/holly-cool-down-2",
+    instructor: "Holly",
+    duration: { minutes: 5, seconds: 0, total: { seconds: 300 } },
+    songs: [
+      {
+        artist: "Whitney Houston",
+        song: "The Greatest Love of All",
+        "release-date": "1986-03-18",
+      },
+    ],
+  },
+  {
+    id: 35,
+    title: "Kristina with Barbra Streisand",
+    category: "Cool Down",
+    url: "https://www.retrosweathomevideo.com/cool-down/videos/kristina-cool-down",
+    instructor: "Kristina",
+    duration: { minutes: 4, seconds: 19, total: { seconds: 259 } },
+    songs: [
+      {
+        artist: "Barbra Streisand",
+        song: "Woman in Love",
+        "release-date": "1980-08-16",
       },
     ],
   },
