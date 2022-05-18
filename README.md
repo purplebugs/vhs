@@ -1,12 +1,10 @@
-# vhs
-
-Retrosweat - Video remix app
-
 # VHS - retro workout videos 📼
 
-My personal search engine app for my fave retro workout videos
+Retrosweat - Video remix app for my fave retro workout videos
 
-Work in progress.
+## Status 🚜
+
+Not yet usable.
 
 ## Overview 🛼
 
