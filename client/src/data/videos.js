@@ -448,4 +448,64 @@ export const items = [
       },
     ],
   },
+  {
+    id: 29,
+    title: "Shannon with Lionel Richie",
+    category: "Buns of Steel",
+    url: "https://www.retrosweathomevideo.com/buns-of-steel/videos/shannon-glutes-1",
+    instructor: "Shannon",
+    duration: { minutes: 5, seconds: 1, total: { seconds: 301 } },
+    songs: [
+      {
+        artist: "Lionel Richie",
+        song: "Running with the Night",
+        "release-date": "1983-11",
+      },
+    ],
+  },
+  {
+    id: 30,
+    title: "Emily with Madonna",
+    category: "Buns of Steel",
+    url: "https://www.retrosweathomevideo.com/buns-of-steel/videos/emily-glutes-1",
+    instructor: "Emily",
+    duration: { minutes: 5, seconds: 19, total: { seconds: 319 } },
+    songs: [
+      {
+        artist: "Madonna",
+        song: "Open Your Heart",
+        "release-date": "1986-11-19",
+      },
+    ],
+  },
+  {
+    id: 31,
+    title: "Holly with WHAM!",
+    category: "Buns of Steel",
+    url: "https://www.retrosweathomevideo.com/buns-of-steel/videos/holly-buns-of-steel",
+    instructor: "Holly",
+    duration: { minutes: 1, seconds: 1, total: { seconds: 361 } },
+    songs: [
+      {
+        artist: "Wham!",
+        song: "Everything She Wants",
+        "release-date": "1984-12-03",
+      },
+    ],
+  },
+  {
+    id: 31,
+    title: "Kristina with DeBarge",
+    category: "Buns of Steel",
+    url: "https://www.retrosweathomevideo.com/buns-of-steel/videos/kristina-glutes-4-1",
+    instructor: "Holly",
+    duration: { minutes: 4, seconds: 55, total: { seconds: 295 } },
+    songs: [
+      {
+        artist: "DeBarge",
+        song: "Rhythm of the Night",
+        "release-date": "1985-03-14",
+      },
+    ],
+  },
 ];
