@@ -39,6 +39,13 @@ This app uses
 
 1. Navigate to [http://localhost:3000/](http://localhost:3000/) and click around the app
 
+## Deploy the app
+
+Uses [GitHub pages](https://create-react-app.dev/docs/deployment/#github-pages)
+
+1. Deploy the app: `npm run deploy`
+2. App will be updated and available at https://purplebugs.github.io/vhs/
+
 # License 📝
 
 The work is under exclusive copyright by default.
