@@ -80,7 +80,11 @@ function App() {
             timeRange={timeRange}
             setTimeRange={setTimeRange}
           ></TimeRange>
-          <button>Make my remix</button>
+
+          <h2>Toggle categories to select videos</h2>
+
+          {/* <button>Make my remix</button> */}
+
           <Categories categories={categories} filterVideos={filterVideos} />
           <Videos videos={videos}></Videos>
 
