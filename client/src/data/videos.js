@@ -394,4 +394,58 @@ export const items = [
       },
     ],
   },
+  {
+    id: 25,
+    title: "Shannon with The Police",
+    category: "Abs-Olutely!",
+    url: "https://www.retrosweathomevideo.com/ab-solutely/videos/shannon-abs-reupload",
+    instructor: "Shannon",
+    duration: { minutes: 8, seconds: 3, total: { seconds: 303 } },
+    songs: [{ artist: "The Police", song: "Roxanne", "release-date": "1978" }],
+  },
+  {
+    id: 26,
+    title: "Kristina with Diana Ross and BeeGees",
+    category: "Abs-Olutely!",
+    url: "https://www.retrosweathomevideo.com/ab-solutely/videos/kristina-abs",
+    instructor: "Kristina",
+    duration: { minutes: 4, seconds: 35, total: { seconds: 275 } },
+    songs: [
+      {
+        artist: "Diana Ross",
+        song: "Chain Reaction",
+        "release-date": "1985-11-28",
+      },
+    ],
+  },
+  {
+    id: 27,
+    title: "Holly with Thompson Twins",
+    category: "Abs-Olutely!",
+    url: "https://www.retrosweathomevideo.com/ab-solutely/videos/holly-abs",
+    instructor: "Holly",
+    duration: { minutes: 6, seconds: 0, total: { seconds: 360 } },
+    songs: [
+      {
+        artist: "Thompson Twins",
+        song: "Hold Me Now",
+        "release-date": "1983-11-11",
+      },
+    ],
+  },
+  {
+    id: 28,
+    title: "Emily with Prince",
+    category: "Abs-Olutely!",
+    url: "https://www.retrosweathomevideo.com/ab-solutely/videos/emily-abs",
+    instructor: "Holly",
+    duration: { minutes: 4, seconds: 41, total: { seconds: 281 } },
+    songs: [
+      {
+        artist: "Prince",
+        song: "Raspberry Beret",
+        "release-date": "1985-05-15",
+      },
+    ],
+  },
 ];

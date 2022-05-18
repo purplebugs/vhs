@@ -4,7 +4,7 @@
 // TODO: Get list from API
 // Request: GET http://localhost:8080/api/categories
 // Response:
-// ["Ab-solutely!","Arm Attack","Buns of Steel","Fancy Feet","Grapevine Combo","High Intensity Burn","Squats","Warm Up","Cool Down"]
+// ["Abs-Olutely!","Arm Attack","Buns of Steel","Fancy Feet","Grapevine Combo","High Intensity Burn","Squats","Warm Up","Cool Down"]
 
 // Example proper list of categories
 // Ref: https://www.udemy.com/course/react-tutorial-and-projects-course/learn/lecture/21949012#overview
