@@ -16,6 +16,7 @@ Not done:
 - Filter by time selected
 - Look and feel
 - Dynamic data from API/search engine
+- TODO Bugfix: images path when run locally. Broken since added deployment to github pages
 
 ## Overview 🛼
 
